@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 77481a7c618d8c14cbf3663b6c659704
 ModelImporter:
-  serializedVersion: 25
+  serializedVersion: 26
   internalIDToNameTable:
   - first:
       1: 100000
@@ -40,7 +40,7 @@ ModelImporter:
       name: nature_root
     second: {fileID: 2100000, guid: 00fc27719fc29924b9a34aab914dc83a, type: 2}
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 2
     materialLocation: 0
@@ -73,6 +73,7 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
     importVisibility: 0
     importBlendShapes: 1
     importCameras: 0
