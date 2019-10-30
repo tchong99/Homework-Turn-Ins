@@ -305,7 +305,7 @@ public class OVRManager : MonoBehaviour
 	/// If true, Unity will use the optimal antialiasing level for quality/performance on the current hardware.
 	/// </summary>
 	[Tooltip("If true, Unity will use the optimal antialiasing level for quality/performance on the current hardware.")]
-	public bool useRecommendedMSAALevel = true;
+	public bool useRecommendedMSAALevel = false;
 
 	/// <summary>
 	/// If true, both eyes will see the same image, rendered from the center eye pose, saving performance.
